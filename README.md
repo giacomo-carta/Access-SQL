@@ -32,18 +32,19 @@ The project aims to demonstrate knowledge of various tools that can be used whil
 - Applied INNER JOIN for matching rows in all three tables and LEFT JOIN to include all rows from one table along with matches from another.
 
 ## Repository Structure
+- **World Database.sql**
+  - SQL script with the database used for this project.
+  - 
+- **MySQL Project.sql**
+  - SQL script containing the MySQL project with the queries.
 
-- **Giacomo Carta - MySQL Assignment.sql**
-  - SQL script containing the MySQL assignment.
-
-- **GiacomoCarta_SQL_Assignment.docx**
-  - Document file providing additional documentation or explanation related to the MySQL assignment.
+- **GC SQL Project.docx**
+  - Document file with all the findings step by step and reflections on the project.
 
 - **README.md**
   - Updated README file containing information about the project.
 
-- **world db.sql**
-  - SQL script for the World database.
+
 
 Feel free to explore the individual folders for detailed information on each phase of the project.
 
