@@ -34,19 +34,14 @@ The project aims to demonstrate knowledge of various tools that can be used whil
 ## Repository Structure
 - **World Database.sql**
   - SQL script with the database used for this project.
-  - 
 - **MySQL Project.sql**
   - SQL script containing the MySQL project with the queries.
-
 - **GC SQL Project.docx**
   - Document file with all the findings step by step and reflections on the project.
-
 - **README.md**
   - Updated README file containing information about the project.
 
-
-
-Feel free to explore the individual folders for detailed information on each phase of the project.
+*Feel free to explore the individual folders for detailed information on each phase of the project.*
 
 ## Project Highlights
 
