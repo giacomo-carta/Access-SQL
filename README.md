@@ -11,15 +11,24 @@ The "world" database contains information about cities, countries and country la
 - SQL
 - Microsoft Access
 
-### Functions in detail
-
-In this project, I firstly used Microsoft Access to analyse the relational structure of the database. 
-I then used SQL queries to retrieve information with functions such as COUNT, AND, ORDER BY, WHERE, LIMIT and more.
-As the database consisted in 3 tables, I used the JOIN function create meaningful queries.
-
 ## Project Overview
 
+The project aims to demonstrate knowledge of various tools that can be used while working with a database. In this instance, I chose to start with Access because it provides an intuitive system for visualizing the database structure. I then migrated the database to MySQL to perform queries and showcase proficiency in fundamental functionalities and formulas.
 
+## Functions in Detail
+
+### Database Exploration with Microsoft Access:
+- Used Microsoft Access to understand the relational structure of the database.
+- Viewed tables, established relationships, and grasped data distribution in the project.
+
+### SQL Query Execution:
+- Wrote and executed SQL queries to interact with the database.
+- Utilized various SQL clauses, including COUNT (to tally rows), AND (to combine conditions), ORDER BY (to sort results), WHERE (to filter data based on conditions), and LIMIT (to control the number of rows returned).
+
+### Utilizing JOIN for Complex Queries:
+- Exploited the JOIN function extensively.
+- Merged related rows between tables to obtain intricate and meaningful results.
+- Applied INNER JOIN for matching rows in all three tables and LEFT JOIN to include all rows from one table along with matches from another.
 
 ## Repository Structure
 
