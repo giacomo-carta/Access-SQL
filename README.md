@@ -45,17 +45,14 @@ Feel free to explore the individual folders for detailed information on each pha
 
 ## Project Highlights
 
-- **Access Usage:**
-  ![Defining the relational model](https://github.com/giacomo-carta/Access-SQL/assets/153180003/64917edd-8cb1-4be8-a1d1-4a718c4d2041)
+### Creating the ERD
+![Using Reverse Engineer to create an Enhanced Entity-Relationship Diagram](https://github.com/giacomo-carta/Access-SQL/assets/153180003/89046c18-0d91-4176-a39d-6c2aac1e4bc2)
 
-- **SQL Analysis:**
-  ![Querying the database using various functions](https://github.com/giacomo-carta/Access-SQL/assets/153180003/ac093b41-2f98-4d20-8e09-c8aee0850e15)
+### SQL Analysis
+![Querying the database using various functions](https://github.com/giacomo-carta/Access-SQL/assets/153180003/ac093b41-2f98-4d20-8e09-c8aee0850e15)
 
-- **Creating the ERD:**
-  ![Using Reverse Engineer to create an Enhanced Entity-Relationship Diagram](https://github.com/giacomo-carta/Access-SQL/assets/153180003/89046c18-0d91-4176-a39d-6c2aac1e4bc2)
-
-I hope you find this project insightful and valuable! 🌐🔍
-
+### Access Usage
+![Defining the relational model](https://github.com/giacomo-carta/Access-SQL/assets/153180003/64917edd-8cb1-4be8-a1d1-4a718c4d2041)
 
 I hope you find this project insightful and valuable! 🌐🔍
 
