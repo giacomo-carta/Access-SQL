@@ -54,5 +54,5 @@ Feel free to explore the individual folders for detailed information on each pha
 ### Access Usage
 ![Defining the relational model](https://github.com/giacomo-carta/Access-SQL/assets/153180003/64917edd-8cb1-4be8-a1d1-4a718c4d2041)
 
-I hope you find this project insightful and valuable! 🌐🔍
+**💡🌐🔍 I hope you find this project insightful and valuable! 🌟**
 
