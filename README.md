@@ -4,16 +4,22 @@ Welcome to my project repository where I explore the "world" public database usi
 
 ## About the Database
 
-The "world" database contains [brief description of the dataset, such as tables and key data points]. It provides valuable information about [provide context about what the database represents].
+The "world" database contains information about cities, countries and country languages. It provides valuable information about city and country names, population, region, area, life expectancy, gnp, government, head of state, language spoken.
 
 ## Tools Used
 
 - SQL
 - Microsoft Access
 
+### Functions in detail
+
+In this project, I firstly used Microsoft Access to analyse the relational structure of the database. 
+I then used SQL queries to retrieve information with functions such as COUNT, AND, ORDER BY, WHERE, LIMIT and more.
+As the database consisted in 3 tables, I used the JOIN function create meaningful queries.
+
 ## Project Overview
 
-In this project, I utilized SQL queries for [describe the tasks or analysis performed with SQL], and then I leveraged Microsoft Access for [describe the objectives accomplished with Access].
+
 
 ## Repository Structure
 
