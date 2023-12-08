@@ -18,14 +18,14 @@ The project aims to demonstrate knowledge of various tools that can be used whil
 ## Functions in Detail
 
 ### Database Exploration with Microsoft Access:
-- Used Microsoft Access to understand the relational structure of the database.
+- Used Microsoft Access to explain the relational model and provide theoretical insights into databases.
 - Viewed tables, established relationships, and grasped data distribution in the project.
-- Created an Entity-Relationship Diagram (ERD) in Microsoft Access to visualize the database structure.
 
 ### SQL Query Execution:
 - Wrote and executed SQL queries to interact with the database.
 - Utilized various SQL clauses, including COUNT (to tally rows), AND (to combine conditions), ORDER BY (to sort results), WHERE (to filter data based on conditions), and LIMIT (to control the number of rows returned).
-
+- Created an Entity-Relationship Diagram (ERD) using MySQL to visualize the database structure and identify primary keys, foreign keys and composite keys.
+  
 ### Utilizing JOIN for Complex Queries:
 - Exploited the JOIN function extensively.
 - Merged related rows between tables to obtain intricate and meaningful results.
@@ -44,10 +44,12 @@ Feel free to explore the individual folders for detailed information on each pha
 [Provide instructions on how others can run or replicate your project, including any necessary setup or prerequisites.]
 
 ## Project Highlights
-
-- **SQL Analysis:** [Highlight key insights or findings obtained through SQL queries.]
-- **Access Usage:** [Describe how Microsoft Access was used to enhance or visualize the data.]
-- **Visualizations:** [If applicable, mention any visualizations or reports created as part of the project.]
+- **Access Usage:** ![Screenshot 1](![das](https://github.com/giacomo-carta/Access-SQL/assets/153180003/64917edd-8cb1-4be8-a1d1-4a718c4d2041))
+*Defining the relational model*
+- **SQL Analysis:** ![Screenshot 1](![dasdsad](https://github.com/giacomo-carta/Access-SQL/assets/153180003/ac093b41-2f98-4d20-8e09-c8aee0850e15))
+*Querying the database using various functions*
+- **Creating the ERD:** ![Screenshot 1](![eer](https://github.com/giacomo-carta/Access-SQL/assets/153180003/1c1215ca-2c1b-41e7-a23a-02f90d2a9a1f))
+*Using Reverse Engineer to create an Enhanched Entity-Relationship Diagram*
 
 I hope you find this project insightful and valuable! 🌐🔍
 
