@@ -39,10 +39,6 @@ The project aims to demonstrate knowledge of various tools that can be used whil
 
 Feel free to explore the individual folders for detailed information on each phase of the project.
 
-## Getting Started
-
-[Provide instructions on how others can run or replicate your project, including any necessary setup or prerequisites.]
-
 ## Project Highlights
 
 ### Creating the ERD
