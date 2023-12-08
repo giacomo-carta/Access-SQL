@@ -20,6 +20,7 @@ The project aims to demonstrate knowledge of various tools that can be used whil
 ### Database Exploration with Microsoft Access:
 - Used Microsoft Access to understand the relational structure of the database.
 - Viewed tables, established relationships, and grasped data distribution in the project.
+- Created an Entity-Relationship Diagram (ERD) in Microsoft Access to visualize the database structure.
 
 ### SQL Query Execution:
 - Wrote and executed SQL queries to interact with the database.
