@@ -49,13 +49,5 @@ Feel free to explore the individual folders for detailed information on each pha
 - **Access Usage:** [Describe how Microsoft Access was used to enhance or visualize the data.]
 - **Visualizations:** [If applicable, mention any visualizations or reports created as part of the project.]
 
-## Contact
-
-For any questions, feedback, or collaboration opportunities, feel free to reach out:
-
-- Email: [your@email.com]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
-
 I hope you find this project insightful and valuable! 🌐🔍
 
