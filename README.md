@@ -33,9 +33,17 @@ The project aims to demonstrate knowledge of various tools that can be used whil
 
 ## Repository Structure
 
-- **/SQL:** Contains SQL scripts used in the project.
-- **/Access:** Includes Microsoft Access databases and related files.
-- **/Documentation:** Additional documentation related to the project.
+- **Giacomo Carta - MySQL Assignment.sql**
+  - SQL script containing the MySQL assignment.
+
+- **GiacomoCarta_SQL_Assignment.docx**
+  - Document file providing additional documentation or explanation related to the MySQL assignment.
+
+- **README.md**
+  - Updated README file containing information about the project.
+
+- **world db.sql**
+  - SQL script for the World database.
 
 Feel free to explore the individual folders for detailed information on each phase of the project.
 
